@@ -21,7 +21,7 @@ footer-links:
   email: chintan.s.sumaria@gmail.com
   facebook: Chintan Sumaria
   flickr:
-  github: csumaria/ChintanSumaria.github.io
+  github: csumaria/csumaria.github.io
   instagram:
   linkedin: https://www.linkedin.com/in/chintansumaria
   pinterest:
@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://github.com/csumaria/chintansumaria.github.io)
+# Your website URL (e.g. http://github.com/csumaria/csumaria.github.io)
 # Used for Sitemap.xml and your RSS feed
 url:
 
