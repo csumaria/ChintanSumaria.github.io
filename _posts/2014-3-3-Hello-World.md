@@ -1,6 +1,6 @@
 ---
 layout: Hello World
-title: So, this does work!
+title: So, this does work even when updated!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
